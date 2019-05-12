@@ -1,0 +1,30 @@
+Two original raw data files:
+(1) EnglishVer_BookI.txt
+(2) ChineseVer_UTF8.txt
+
+Two codes files with code comments:
+(1) yh17_Chinesefile.py
+(2) yh17_Englishfile.py
+
+One code file with comments:
+(1) yh17_English_preprocessing.py
+
+This file stores some pre-processing codes with some preprocessing steps, which are proved not necessary for data analysis later.
+So, I just stored these codes in this file.
+
+Six exported data files:
+(1)paochia_smile_result.csv
+(2)paoyu_smile_result.csv
+(3)taiyu_smile_result.csv
+(4)chinese_paochia_smile_result.csv
+(5)chinese_paoyu_smile_result.csv
+(6)chinese_taiyu_smile_result.csv
+
+Two stopwords files:
+(1) stopwords.txt
+(2) Chinese_Stopwords
+
+One narrative file:
+(1) yh17_finalproject_narratives.pdf
+
+
